@@ -55,6 +55,7 @@ This section provides a high-level overview of the most important hospital metri
 2. Patient Admission Analysis
 
 This feature focuses on analyzing patient admission trends over time. It helps identify peak periods when hospital demand is high, enabling better resource planning and management.
+![Patient Admission Analysis](
 
 3. Readmission Analysis
 
