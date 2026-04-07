@@ -55,21 +55,17 @@ This section provides a high-level overview of the most important hospital metri
 2. Patient Admission Analysis
 
 This feature focuses on analyzing patient admission trends over time. It helps identify peak periods when hospital demand is high, enabling better resource planning and management.
-![Patient Admission Analysis](
+![Patient Admission Analysis](https://github.com/beheradinesh8280/Hospital-Performance-Patient-Insights-Analytics/blob/main/patient.png)
 
-3. Readmission Analysis
-
-The readmission analysis section tracks how often patients return to the hospital after discharge. High readmission rates may indicate issues in treatment quality or patient care, making this a critical metric for improvement.
-
-4. Department Performance Analysis
+3. Department Performance Analysis
 
 This section evaluates the performance of different hospital departments. It compares departments based on patient volume and revenue contribution, helping identify high-performing and underperforming areas.
 
-5. Doctor Performance Analysis
+4. Doctor Performance Analysis
 
 Doctor performance is analyzed by ranking doctors based on the number of patients treated and the revenue generated. This helps in understanding individual contributions and optimizing workload distribution.
-
-6. Interactive Filters
+![Doctor Performance Analysis](https://github.com/beheradinesh8280/Hospital-Performance-Patient-Insights-Analytics/blob/main/doctor.png)
+5. Interactive Filters
 
 The dashboard includes interactive filters that allow users to customize their analysis. Users can filter data based on department, doctor, admission type, and time period to gain deeper insights.
 
@@ -94,8 +90,8 @@ Filters and slicers are added for user interaction
 Final dashboard layout is optimized for usability
 Dashboard Preview
 
-Screenshots of the dashboard should be added here to provide a visual representation of the project. This helps users and recruiters quickly understand the design and insights offered by the dashboard.
-
+![Dash Board](https://github.com/beheradinesh8280/Hospital-Performance-Patient-Insights-Analytics/blob/main/main.png)
+![RBA](https://github.com/beheradinesh8280/Hospital-Performance-Patient-Insights-Analytics/blob/main/RBA.png)
 Business Use Case
 
 This dashboard can be used by healthcare organizations to improve decision-making and operational efficiency.
@@ -104,7 +100,7 @@ It helps hospital management monitor performance, track financial growth, and op
 
 Overall, it plays a key role in driving data-driven healthcare management.
 
-Skills
+**Skills**
 
 This project demonstrates a strong set of data analytics skills:
 
