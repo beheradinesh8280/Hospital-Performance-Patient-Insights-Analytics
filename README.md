@@ -185,10 +185,3 @@ This dashboard helps healthcare organizations:
 An interactive **Power BI dashboard** designed to analyze **hospital performance, patient trends, and financial metrics** for better decision-making.
 
 ---
-
-## 🔗 Connect
-
-**Dinesh Kumar Behera**  
-👉 LinkedIn: https://www.linkedin.com/in/dinesh-kumar-b8b977346/
-
----
